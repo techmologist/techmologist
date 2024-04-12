@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @techmologist
-- 👀 I’m interested in backend development as well as front end development. I'm also interested in learning low level system development
-- 🌱 I’m currently everything I can learning.
+- 👀 I’m interested in backend development as well as front end development.
+-  I'm also interested in learning low level system development
+- 🌱 I’m currently everything I can learn.
 - 📫 How to reach me .. E-mail: piyushrajbista@outlook.com
 -  Twitter: @piyushrajbista
 
