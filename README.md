@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @techmologist
 - 👀 I’m interested in systems and programs.
 - 🌱 I’m currently everything I can learn.
-- 📫 How to reach me .. E-mail:codeokplz@gmail.com
+- 📫 How to reach me ..  E-mail: codeokplz@gmail.com
 
 
 <!---
